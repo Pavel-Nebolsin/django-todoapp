@@ -1,0 +1,29 @@
+[33mcommit f8a2eb26b07499a2488dbc137bb83757563e0b55[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mtemp[m[33m)[m
+Author: Pavel-Nebolsin <ldrimanez@gmail.com>
+Date:   Wed Oct 19 15:27:07 2022 +0300
+
+    pip freeze file - psycopg2 and dependent deleted
+
+[33mcommit 5867f199ac7d9193211471775b520293f584968e[m
+Author: Pavel-Nebolsin <ldrimanez@gmail.com>
+Date:   Wed Oct 19 14:55:05 2022 +0300
+
+    pip freeze file - psycopg2 deleted
+
+[33mcommit e43ef419610e796c2283307bf9390ab60bea7bc6[m
+Author: Pavel-Nebolsin <ldrimanez@gmail.com>
+Date:   Wed Oct 19 14:21:38 2022 +0300
+
+    pip freeze file - psycopg2 edited
+
+[33mcommit 954d0daefbcde8d348949dcf950cd28214055412[m
+Author: Pavel-Nebolsin <ldrimanez@gmail.com>
+Date:   Wed Oct 19 13:55:48 2022 +0300
+
+    pip freeze file added
+
+[33mcommit 969b0095c063fa8b07249163bc138be61d629194[m
+Author: Pavel-Nebolsin <ldrimanez@gmail.com>
+Date:   Wed Oct 19 12:56:27 2022 +0300
+
+    some comment1
